@@ -1,4 +1,4 @@
-#Rui Meng's First CS193 Homework
+# Rui Meng's First CS193 Homework
 - Favorite things
 - Coding
 - Learning
